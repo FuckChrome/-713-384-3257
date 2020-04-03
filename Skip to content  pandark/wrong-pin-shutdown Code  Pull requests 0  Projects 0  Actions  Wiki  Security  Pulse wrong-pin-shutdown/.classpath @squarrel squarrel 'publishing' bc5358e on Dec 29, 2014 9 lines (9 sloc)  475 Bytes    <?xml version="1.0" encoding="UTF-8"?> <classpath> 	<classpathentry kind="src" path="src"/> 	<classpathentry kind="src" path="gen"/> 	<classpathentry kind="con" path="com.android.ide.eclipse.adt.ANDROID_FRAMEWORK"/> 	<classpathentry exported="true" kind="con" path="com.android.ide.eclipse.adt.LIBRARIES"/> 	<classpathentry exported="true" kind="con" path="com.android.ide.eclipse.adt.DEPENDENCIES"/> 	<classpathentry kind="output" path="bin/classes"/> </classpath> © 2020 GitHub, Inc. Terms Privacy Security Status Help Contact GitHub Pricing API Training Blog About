@@ -1,0 +1,29 @@
+Skip to content
+ pandark / wrong-pin-shutdown
+Code  Pull requests 0  Projects 0  Actions  Wiki  Security  Pulse
+wrong-pin-shutdown/.classpath
+@squarrel squarrel 'publishing'
+bc5358e on Dec 29, 2014
+9 lines (9 sloc)  475 Bytes
+  
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
